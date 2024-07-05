@@ -12,5 +12,5 @@ steps:
   inputs:
     azureSubscription: 'gab-dotNetSC'
     appType: 'webAppLinux'
-    appName: 'gab-webapp'
+    appName: 'onlinecalculatorapp2024'
     package: '$(System.DefaultWorkingDirectory)/**/*.zip'
